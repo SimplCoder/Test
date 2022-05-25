@@ -1,7 +1,13 @@
 const myArgs = process.argv.slice(2)
 console.info(myArgs[0]);
-function diamond(val) {
-    
-  }
-  
- 
+class CharPattern
+{
+	
+}
+
+function main()
+{
+	var pattern = new CharPattern();
+	
+}
+main();
